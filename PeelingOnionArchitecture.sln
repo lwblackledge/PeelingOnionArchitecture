@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeelingOnionArchitecture.UI", "PeelingOnionArchitecture.UI\PeelingOnionArchitecture.UI.csproj", "{9964F8FF-D27C-4CB7-B608-8C5E7093BABB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeelingOnionArchitecture.Core", "PeelingOnionArchitecture.Core\PeelingOnionArchitecture.Core.csproj", "{2368ABF7-AB32-49EC-A8DD-685776B0C4BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeelingOnionArchitecture.Infrastructure", "PeelingOnionArchitecture.Infrastructure\PeelingOnionArchitecture.Infrastructure.csproj", "{B6A81F16-3CE8-42B5-801B-5382E8A2163E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PeelingOnionArchitecture.Resolver", "PeelingOnionArchitecture.Resolver\PeelingOnionArchitecture.Resolver.csproj", "{E831790C-5DEA-4C90-AFFB-9CD95C7D3950}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9964F8FF-D27C-4CB7-B608-8C5E7093BABB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9964F8FF-D27C-4CB7-B608-8C5E7093BABB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9964F8FF-D27C-4CB7-B608-8C5E7093BABB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9964F8FF-D27C-4CB7-B608-8C5E7093BABB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2368ABF7-AB32-49EC-A8DD-685776B0C4BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2368ABF7-AB32-49EC-A8DD-685776B0C4BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2368ABF7-AB32-49EC-A8DD-685776B0C4BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2368ABF7-AB32-49EC-A8DD-685776B0C4BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6A81F16-3CE8-42B5-801B-5382E8A2163E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6A81F16-3CE8-42B5-801B-5382E8A2163E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6A81F16-3CE8-42B5-801B-5382E8A2163E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6A81F16-3CE8-42B5-801B-5382E8A2163E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E831790C-5DEA-4C90-AFFB-9CD95C7D3950}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E831790C-5DEA-4C90-AFFB-9CD95C7D3950}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E831790C-5DEA-4C90-AFFB-9CD95C7D3950}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E831790C-5DEA-4C90-AFFB-9CD95C7D3950}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
