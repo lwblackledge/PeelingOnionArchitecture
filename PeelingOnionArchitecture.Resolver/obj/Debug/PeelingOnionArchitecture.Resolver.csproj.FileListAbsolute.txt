@@ -1,0 +1,11 @@
+C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.Resolver\obj\Debug\PeelingOnionArchitecture.Resolver.csprojResolveAssemblyReference.cache
+C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.Resolver\bin\Debug\PeelingOnionArchitecture.Resolver.dll
+C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.Resolver\bin\Debug\PeelingOnionArchitecture.Resolver.pdb
+C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.Resolver\bin\Debug\PeelingOnionArchitecture.Core.dll
+C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.Resolver\bin\Debug\PeelingOnionArchitecture.Infrastructure.dll
+C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.Resolver\bin\Debug\SimpleInjector.dll
+C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.Resolver\bin\Debug\PeelingOnionArchitecture.Core.pdb
+C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.Resolver\bin\Debug\PeelingOnionArchitecture.Infrastructure.pdb
+C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.Resolver\bin\Debug\SimpleInjector.xml
+C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.Resolver\obj\Debug\PeelingOnionArchitecture.Resolver.dll
+C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.Resolver\obj\Debug\PeelingOnionArchitecture.Resolver.pdb

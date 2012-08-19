@@ -1,0 +1,5 @@
+C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.Core\bin\Debug\PeelingOnionArchitecture.Core.dll
+C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.Core\bin\Debug\PeelingOnionArchitecture.Core.pdb
+C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.Core\obj\Debug\PeelingOnionArchitecture.Core.csprojResolveAssemblyReference.cache
+C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.Core\obj\Debug\PeelingOnionArchitecture.Core.dll
+C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.Core\obj\Debug\PeelingOnionArchitecture.Core.pdb

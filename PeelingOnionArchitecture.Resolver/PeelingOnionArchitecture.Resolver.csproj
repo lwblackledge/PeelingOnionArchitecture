@@ -30,6 +30,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="SimpleInjector">
+      <HintPath>..\packages\SimpleInjector.1.5.0.12199\lib\net35\SimpleInjector.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -39,8 +42,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="SimpleInjectorServiceLocator.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PeelingOnionArchitecture.Core\PeelingOnionArchitecture.Core.csproj">
+      <Project>{2368abf7-ab32-49ec-a8dd-685776b0c4bb}</Project>
+      <Name>PeelingOnionArchitecture.Core</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PeelingOnionArchitecture.Infrastructure\PeelingOnionArchitecture.Infrastructure.csproj">
+      <Project>{b6a81f16-3ce8-42b5-801b-5382e8a2163e}</Project>
+      <Name>PeelingOnionArchitecture.Infrastructure</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
