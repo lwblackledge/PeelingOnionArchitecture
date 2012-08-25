@@ -9,3 +9,5 @@ C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.Resolver\bin\Debu
 C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.Resolver\bin\Debug\SimpleInjector.xml
 C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.Resolver\obj\Debug\PeelingOnionArchitecture.Resolver.dll
 C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.Resolver\obj\Debug\PeelingOnionArchitecture.Resolver.pdb
+C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.UI\bin\PeelingOnionArchitecture.Resolver.dll
+C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.UI\bin\PeelingOnionArchitecture.Resolver.pdb

@@ -32,3 +32,5 @@ C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.UI\bin\System.Web
 C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.UI\obj\Debug\PeelingOnionArchitecture.UI.csprojResolveAssemblyReference.cache
 C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.UI\obj\Debug\PeelingOnionArchitecture.UI.dll
 C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.UI\obj\Debug\PeelingOnionArchitecture.UI.pdb
+C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.UI\bin\PeelingOnionArchitecture.Core.dll
+C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.UI\bin\PeelingOnionArchitecture.Core.pdb

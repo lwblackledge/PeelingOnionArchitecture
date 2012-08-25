@@ -1,0 +1,14 @@
+﻿@model IEnumerable<PeelingOnionArchitecture.Core.Entities.Store>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Welcome To The Onion Store Searcher</h2>
+
+<p>It would be nice if this had been written already, wouldn't it?</p>
+
+@foreach(var store in Model)
+{
+	@store.StoreName <br/>
+}
