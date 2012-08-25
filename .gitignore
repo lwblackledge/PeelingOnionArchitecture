@@ -1,0 +1,6 @@
+_Resharper*
+*.ncrunchsolution
+*.user
+*.suo
+/bin/*
+/obj/*

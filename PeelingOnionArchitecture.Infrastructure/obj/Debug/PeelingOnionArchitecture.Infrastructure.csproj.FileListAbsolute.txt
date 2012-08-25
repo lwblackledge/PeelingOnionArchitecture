@@ -3,3 +3,7 @@ C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.Infrastructure\bi
 C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.Infrastructure\obj\Debug\PeelingOnionArchitecture.Infrastructure.csprojResolveAssemblyReference.cache
 C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.Infrastructure\obj\Debug\PeelingOnionArchitecture.Infrastructure.dll
 C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.Infrastructure\obj\Debug\PeelingOnionArchitecture.Infrastructure.pdb
+C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.Infrastructure\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.Infrastructure\bin\Debug\PeelingOnionArchitecture.Core.dll
+C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.Infrastructure\bin\Debug\WebActivator.dll
+C:\Sync\Code\PeelingOnionArchitecture\PeelingOnionArchitecture.Infrastructure\bin\Debug\PeelingOnionArchitecture.Core.pdb
